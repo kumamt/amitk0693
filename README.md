@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cloud Services (AWS)**
 
-- 👨‍💻 All of my projects are available at [ML and DL algorithms](ML and DL algorithms)
+- 👨‍💻 All of my projects are available at [ML and DL algorithms]("https://github.com/amitk0693?tab=repositories")
 
 - 📝 I regularly write articles on [AI](AI)
 
