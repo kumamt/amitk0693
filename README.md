@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [ML and DL algorithms](https://github.com/amitk0693?tab=repositories)
 
-- 📝 I regularly read articles on [AI]
+- 📝 I regularly read articles on AI
 
 - 📫 How to reach me **amitk0693@outlook.com**
 
