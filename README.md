@@ -1,4 +1,3 @@
-[![MasterHead]("https://preview.redd.it/n93k6oc2wab71.png?width=3840&format=png&auto=webp&s=31f81b78691558855767987651ce41b3f2606d77")
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 <h3 align="center">A Data Science enthusiast</h3>
 
