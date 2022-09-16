@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitk0693&label=Profile%20views&color=0e75b6&style=flat" alt="amitk0693" /> </p>
 
-- 🔭 I’m currently working on **Prototype Selection**
+- 🔭 I’m currently working on **Interpretable Machine Learning**
 
 - 🌱 I’m currently learning **Cloud Services (AWS)**
 
