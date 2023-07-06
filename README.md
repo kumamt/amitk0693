@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitk0693&label=Profile%20views&color=0e75b6&style=flat" alt="amitk0693" /> </p>
 
-- 🔭 I’m currently working on **Interpretable Machine Learning**
+- 🔭 I’m currently working as a **Junior Data Scientist**
 
-- 🌱 I’m currently learning **Cloud Services (AWS)**
+- 🌱 I’m currently learning **Business ascpects of Electricty Market**
 
 - 👨‍💻 All of my projects are available at [ML and DL algorithms](https://github.com/amitk0693?tab=repositories)
 
-- 📝 I regularly read articles on AI
+- 📝 I regularly read articles on Data Analysis, Machine Learning and Electricity Market.
 
 - 📫 How to reach me **amitk0693@outlook.com**
 
